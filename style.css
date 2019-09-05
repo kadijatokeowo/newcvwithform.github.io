@@ -1,0 +1,119 @@
+
+
+#main {
+	float: left;
+	width: 60%;
+	
+}
+
+#side {
+	float: right;
+	width: 27%;
+	background: lightblue;
+}
+
+#main{
+height:100%;
+padding:3%
+
+}
+
+#side{
+height:100%;
+padding:3%;
+
+}
+
+h3.subheading {
+	background:grey;
+	width: 75%;
+	padding-left: 5px;
+}
+
+#wide{
+	width: 40%;
+	background:grey;
+}
+
+#school {
+			text-align:right;
+			padding-right: 50%;
+		}
+
+h5.date {
+	color: grey;
+}
+
+h3.work{
+	text-align:center;
+	padding-right: 40%
+}
+
+p.wordings{
+	text-align:center;
+	padding-right: 40%
+}
+
+h3.sides{
+	color:#303030;
+	font-weight: bold;
+	font-family: 
+}
+
+p.wording{
+	font-family: Arial;
+}
+
+body{
+	margin:0;
+	padding:0;
+}
+
+.contactform {
+
+		background: lightblue;
+		margin-top: 30px;
+		width: 100%;
+		height: 100%;
+}
+
+.input-group input {
+	padding: 10px;
+	border:0;
+	outline: none !important;
+	width: 25%;
+	margin: 2%;
+	display: inline-block;
+}
+
+.text-area textarea {
+					width: 80%;
+					border:0;
+					display: inline-block;
+					outline: none !important;
+					padding: 10px;
+					margin: 2%;
+}
+
+.click{
+
+					border:0;
+					display: inline-block;
+					outline: none !important;
+					padding: 10px;
+					margin: 2%;
+					background-color:red; 
+					color:white;
+					
+}
+
+h1.reach{
+	text-align: center;
+	background:red;
+	width: 50%; 
+	padding: 10px;
+	margin: 2%;
+	margin-left: 15%;
+	display: inline-block;
+	color: white;
+}
